@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Beep
+- 👀 I’m interested in programming and animation
+- 🌱 I’m currently learning web and game development
+- 💞️ I’m looking to collaborate on game creation
+- 📫 How to reach me on discord @littlebytebee
+- 😄 Pronouns: any
+- ⚡ Fun fact: I'm built different
